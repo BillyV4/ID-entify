@@ -1,4 +1,4 @@
-# ID-entify
+![alt tag](https://github.com/BillyV4/ID-entify/blob/master/ID-entify-Logo.jpg)
 #### By Carlos Ramírez López
 
 ### ABOUT
