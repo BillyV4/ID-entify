@@ -22,11 +22,13 @@ THE TOOLS USED IN THE INFORMATION SEARCH ARE:
   - Whois
  
 TO INSTALL THE TOOL:
-  -	git clone https://github.com/BillyV4/ID-entify.git
-  -	cd ID-entify
-  -	chmod 777 Installer.sh
-  -	./Installer.sh
+```
+git clone https://github.com/BillyV4/ID-entify.git
+cd ID-entify
+chmod 777 Installer.sh
+./Installer.sh
 
+``` 
 TO EXECUTE THIS SCRIPT 
   -	python /usr/share/ID-entify/ID-entify.py 
 
