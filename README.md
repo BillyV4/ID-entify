@@ -30,6 +30,6 @@ ID-entify is a tool that allows you to search for information in the passive way
 ```
 git clone https://github.com/BillyV4/ID-entify.git
 cd ID-entify
-chmod +x id-entify
-./id-entify
+chmod +x id-entify.sh
+./id-entify.sh
 ```
