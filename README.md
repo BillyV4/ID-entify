@@ -47,7 +47,7 @@ id-entify -d google.com
 When the programs are finished, the tmux workspace will be closed automatically, the filtered information will be stored in ./id-
 #Step 1: domain/Greep_Data/. To filter the information manually execute the following command
 #Step 2: 
-2``
+```
 id-entify -g google.com
 ```
 
