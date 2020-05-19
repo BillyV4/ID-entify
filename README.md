@@ -36,17 +36,18 @@ chmod +x id-entify.sh
 ```
 
 #### Run the script
+##### Step 1:
 The next command is to create a workspace with tmux in which programs are executed in the background, storing the information in the ./id-domain/Raw_Data/ folder.
 
-##### Step 1: 
 
 ```
 id-entify -d google.com
 ```
 
+##### Step 2:
 When the programs are finished, the tmux workspace will be closed automatically, the filtered information will be stored in ./id-domain/Greep_Data/. To filter the information manually execute the following command
 
-#### Step 2: 
+
 ```
 id-entify -g google.com
 ```
